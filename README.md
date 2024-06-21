@@ -34,3 +34,7 @@ Maven will automatically download and install the necessary dependencies specifi
 ```shell
 mvn clean verify
 ```
+
+### Opening Report File
+* Report file located in this directory:
+"TinyMCELimitTest\target\Report\cucumber-reports\cucumber-html-reports\Assessment.html"
