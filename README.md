@@ -24,7 +24,7 @@ This project is use for testing TinyMCE Text Editor Limit on Portal Sekolah
    cd TinyMCE_Limit_Test
 2. **Open the project in IntelliJ IDEA**:
 Open IntelliJ IDEA.
-Select File > Open and navigate to the RkProjectOne directory.
+Select File > Open and navigate to the TinyMCE_Limit_Test directory.
 IntelliJ IDEA will automatically detect the Maven project and import dependencies.
 3. **Install dependencies**:
 Maven will automatically download and install the necessary dependencies specified in the pom.xml file.
