@@ -1,0 +1,3 @@
+org\example\pageObject\DashboardPage.class
+org\example\pageObject\CreateAssessmentPage.class
+org\example\pageObject\LandingPage.class

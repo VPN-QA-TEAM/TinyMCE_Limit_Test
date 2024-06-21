@@ -1,0 +1,5 @@
+StepDef\DashboardPageSteps.class
+StepDef\LandingPageSteps.class
+StepDef\CreateAssessmentPageSteps.class
+hooks\Hooks.class
+runCukes\RunCukesTest.class
