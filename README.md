@@ -12,7 +12,7 @@ This project is use for testing TinyMCE Text Editor Limit on Portal Sekolah
 ## Getting Started
 
 ### Prerequisites
-- **Java 21**: Make sure Java 11 is installed on your system.
+- **Java 11**: Make sure Java 11 is installed on your system.
 - **Maven**: Ensure Maven is installed and properly configured.
 - **IntelliJ IDEA**: Recommended IDE for development.
 - **Cucumber for Java plugin**: Install the Cucumber for Java plugin in IntelliJ IDEA.
@@ -20,8 +20,8 @@ This project is use for testing TinyMCE Text Editor Limit on Portal Sekolah
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/RKCollaborative/RkProjectOne.git
-   cd RkProjectOne
+   git clone https://github.com/VPN-QA-TEAM/TinyMCE_Limit_Test.git
+   cd TinyMCE_Limit_Test
 2. **Open the project in IntelliJ IDEA**:
 Open IntelliJ IDEA.
 Select File > Open and navigate to the RkProjectOne directory.
