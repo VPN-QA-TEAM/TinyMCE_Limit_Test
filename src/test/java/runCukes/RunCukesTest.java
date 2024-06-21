@@ -10,6 +10,7 @@ import org.junit.runner.RunWith;
                 "hooks",
                 "StepDef"
         },
+        tags = "@TinyMCETest",
         features = {"classpath:features/"},
         plugin = {"pretty",
                 "html:target/site/Report.html",

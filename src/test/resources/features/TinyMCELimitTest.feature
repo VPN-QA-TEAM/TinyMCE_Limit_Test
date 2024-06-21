@@ -1,5 +1,6 @@
 Feature: TinyMCE Limit Testing
 
+  @@TinyMCETest
   Scenario: Test TinyMCE Limit On Assessment Page
     Given User go to Portal Sekolah login page
     When User login with "yuqi" as username and "password123*" as password
