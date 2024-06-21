@@ -12,7 +12,7 @@ This project is use for testing TinyMCE Text Editor Limit on Portal Sekolah
 ## Getting Started
 
 ### Prerequisites
-- **Java 11**: Make sure Java 11 is installed on your system.
+- **Java 11**: Make sure Java JDK 11(Minimum) is installed on your system.
 - **Maven**: Ensure Maven is installed and properly configured.
 - **IntelliJ IDEA**: Recommended IDE for development.
 - **Cucumber for Java plugin**: Install the Cucumber for Java plugin in IntelliJ IDEA.
